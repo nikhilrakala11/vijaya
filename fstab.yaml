@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://github.com/nikhilrakala11/vijaya/tree/main"
+    url: "https://github.com/nikhilrakala11/vijaya"
     type: "markup"
     suffix: ".html"
